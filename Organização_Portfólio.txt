@@ -1,0 +1,14 @@
+src/
+├── assets/
+│   └── logo.svg         (O teu SVG do CRLS+OS entra aqui)
+├── components/          (Os blocos de construção da UI)
+│   ├── Navbar.jsx
+│   ├── Hero.jsx
+│   ├── ProjectGrid.jsx
+│   ├── ProjectCard.jsx
+│   └── Footer.jsx
+├── data/                (A tua base de dados local)
+│   └── projects.js
+├── App.jsx              (O ficheiro que une tudo)
+├── main.jsx             (Já existe, não mexes)
+└── index.css            (Já configurámos com o Tailwind)
