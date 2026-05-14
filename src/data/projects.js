@@ -14,7 +14,7 @@ export const projectsData = [
     year: "2024",
     role: "Front-end Development & UI Design",
     team: "4 elementos",
-    coverVideo: "/video-hortaranda.mp4",
+    coverVideo: "https://drive.google.com/uc?export=download&id=1jXkqcqXS-c3bPNVEoqmimFOfnUp1IjXt",
     videoCredits: "Vídeo promocional: Edição por Carlos Teixeira.",
     coverImage: "/apresentacoes/hortaranda/hero.png",
     description: "Plataforma educativa para horticultura urbana. O projeto destaca-se pela gestão de estado entre páginas estáticas via LocalStorage e um simulador interativo em Vanilla JS.",
@@ -42,7 +42,7 @@ export const projectsData = [
       },
       {
         type: 'video-body',
-        value: "/apresentacoes/hortaranda/HORTARANTA_SITE_GRAVACAO.mov",
+        value: "https://drive.google.com/uc?export=download&id=119UYv12U-ZOL3NEkTMdKTrVhmaS-66zu",
         caption: "Demonstração funcional do simulador e persistência de dados entre módulos."
       },
       {
